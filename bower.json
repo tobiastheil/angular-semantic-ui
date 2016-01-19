@@ -12,10 +12,6 @@
     "name": "Alex Kuleshov",
     "url": "https://github.com/0xAX"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/solcates/angular-semantic-ui.git"
-  },
   "licenses": [
     {
       "type": "MIT",
